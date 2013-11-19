@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "description": "Light desktop theme for Topcoat.",
   "main": "entry.css",
+  "style": "src/theme-desktop-light.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
