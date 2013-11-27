@@ -24,8 +24,8 @@
     "url": "https://github.com/topcoat/theme-desktop-light/issues"
   },
   "dependencies": {
-    "topcoat-variables-shared": "git://github.com/topcoat/variables-shared.git",
-    "topcoat-variables-light": "git://github.com/topcoat/variables-light.git",
-    "topcoat-variables-desktop": "git://github.com/topcoat/variables-desktop.git"
+    "topcoat-variables-light": "~0.2.0",
+    "topcoat-variables-desktop": "~0.1.0",
+    "topcoat-variables-shared": "~0.1.0"
   }
 }
