@@ -1,3 +1,19 @@
+@import "topcoat-fonts";
+@import "topcoat-grid";
 @import "topcoat-variables-shared";
 @import "topcoat-variables-desktop";
 @import "topcoat-variables-light";
+
+body {
+	margin: 0;
+	padding: 0;
+	background: var-background--body;
+	color: #000;
+	font: 16px "Source Sans", helvetica, arial, sans-serif;
+	font-weight: 400;
+}
+
+:focus {
+  outline-color: transparent;
+  outline-style: none;
+}
