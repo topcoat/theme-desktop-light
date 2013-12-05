@@ -1,6 +1,6 @@
 {
   "name": "topcoat-theme-desktop-light",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Light desktop theme for Topcoat.",
   "main": "entry.css",
   "style": "src/theme-desktop-light.css",
