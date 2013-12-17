@@ -1,15 +1,12 @@
-@import "topcoat-fonts";
 @import "topcoat-variables-shared";
 @import "topcoat-variables-desktop";
 @import "topcoat-variables-light";
+@import "topcoat-fonts";
 
 body {
 	margin: 0;
 	padding: 0;
 	background: var(background--body);
-	color: #000;
-	font: 16px "Source Sans", helvetica, arial, sans-serif;
-	font-weight: 400;
 }
 
 :focus {
