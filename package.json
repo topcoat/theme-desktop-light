@@ -1,6 +1,6 @@
 {
   "name": "topcoat-theme-desktop-light",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Light desktop theme for Topcoat.",
   "main": "entry.css",
   "style": "src/theme-desktop-light.css",
@@ -27,6 +27,6 @@
     "topcoat-variables-shared": "0.1.4",
     "topcoat-fonts": "0.2.4",
     "topcoat-variables-light": "0.2.6",
-    "topcoat-variables-desktop": "0.2.5"
+    "topcoat-variables-desktop": "0.3.1"
   }
 }
